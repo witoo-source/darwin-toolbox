@@ -23,3 +23,5 @@ dawt ipsx <iptarget>
 ```
 
 ## and you will get something like this:
+
+![Captura de pantalla 2024-08-19 a las 23 08 27](https://github.com/user-attachments/assets/c8ed648d-87f0-46ba-a04f-a0dd97e2e848)
