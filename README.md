@@ -40,7 +40,7 @@ You need `nodejs` (https://nodejs.org) and `unix-like` system (Linux/macOS)
 
 ### To install node.js on macOS:
 
-#### Install homebrew running
+#### Install homebrew
 
 ```bash
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
@@ -50,3 +50,16 @@ You need `nodejs` (https://nodejs.org) and `unix-like` system (Linux/macOS)
 ```bash
 brew install node
 ```
+
+### To install node.js on linux (Debian)
+
+#### Using apt
+
+```bash
+sudo apt update
+```
+
+```bash
+sudo apt install nodejs
+```
+
