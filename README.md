@@ -38,7 +38,7 @@ dawt ipsx <iptarget>
 
 You need `nodejs` (https://nodejs.org) and `unix-like` system (Linux/macOS)
 
-### To install node.js on macOS:
+###  To install node.js on macOS:
 
 #### Install homebrew
 
@@ -51,7 +51,7 @@ You need `nodejs` (https://nodejs.org) and `unix-like` system (Linux/macOS)
 brew install node
 ```
 
-### To install node.js on linux (Debian)
+### 💻 To install node.js on linux (Debian)
 
 #### Using apt
 
