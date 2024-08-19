@@ -25,3 +25,20 @@ dawt ipsx <iptarget>
 ## and you will get something like this:
 
 ![Captura de pantalla 2024-08-19 a las 23 08 27](https://github.com/user-attachments/assets/c8ed648d-87f0-46ba-a04f-a0dd97e2e848)
+
+# Notes:
+
+You need `nodejs` (https://nodejs.org) and `unix-like` system (Linux/macOS)
+
+### To install node.js on macOS:
+
+#### Install homebrew running
+
+```bash
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+#### then
+
+```bash
+brew install node
+```
