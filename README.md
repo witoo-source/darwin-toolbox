@@ -8,11 +8,14 @@
 
 ### run:
 
-`chmod +x install.sh`
-`./install.sh`
+```bash
+chmod +x install.sh
+```bash
+./install.sh
 
 ## First IP tracked:
 
-`dawt ipsx <iptarget>`
+```bash
+dawt ipsx <iptarget>
 
 ## and you will get something like this:
