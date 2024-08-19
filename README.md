@@ -9,6 +9,14 @@
 ### run:
 
 ```bash
+git clone https://github.com/witoo-source/darwin-toolbox.git
+```
+
+```bash
+cd darwin-toolbox
+```
+
+```bash
 chmod +x install.sh
 ```
 
