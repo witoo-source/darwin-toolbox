@@ -10,12 +10,16 @@
 
 ```bash
 chmod +x install.sh
+```
+
 ```bash
 ./install.sh
+```
 
 ## First IP tracked:
 
 ```bash
 dawt ipsx <iptarget>
+```
 
 ## and you will get something like this:
